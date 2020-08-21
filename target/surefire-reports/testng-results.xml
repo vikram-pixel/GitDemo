@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="119" started-at="2020-08-21T11:01:34Z" finished-at="2020-08-21T11:01:34Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="119" started-at="2020-08-21T11:01:34Z" finished-at="2020-08-21T11:01:34Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="HybdridApps()[pri:0, instance:qaclickacademy.AppiumTest@62043840]" name="HybdridApps" duration-ms="0" started-at="2020-08-21T16:31:34Z" finished-at="2020-08-21T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybdridApps -->
+        <test-method status="PASS" signature="NativeApps()[pri:0, instance:qaclickacademy.AppiumTest@62043840]" name="NativeApps" duration-ms="16" started-at="2020-08-21T16:31:34Z" finished-at="2020-08-21T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeApps -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.ApiTest">
+        <test-method status="PASS" signature="RestAssured()[pri:0, instance:qaclickacademy.ApiTest@1324409e]" name="RestAssured" duration-ms="46" started-at="2020-08-21T16:31:34Z" finished-at="2020-08-21T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAssured -->
+        <test-method status="PASS" signature="UiJira()[pri:0, instance:qaclickacademy.ApiTest@1324409e]" name="UiJira" duration-ms="0" started-at="2020-08-21T16:31:34Z" finished-at="2020-08-21T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UiJira -->
+      </class> <!-- qaclickacademy.ApiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="WebAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@5315b42e]" name="WebAutomation" duration-ms="7" started-at="2020-08-21T16:31:34Z" finished-at="2020-08-21T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebAutomation -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
